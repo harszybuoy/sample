@@ -1,0 +1,60 @@
+#Speakers {
+	background: green;
+	font-size: 25px;
+}
+p {
+	background: white;
+}
+#Caption {
+	background: orange;
+}
+.btn {
+	font-size: 16px;
+}
+.btn-danger {
+	background: rgba(128, 0, 0, 0.25);
+}
+.btn-success {
+	background: green;
+}
+body,
+p {
+	margin: 0;
+}
+p {
+	display: inline-block;
+}
+div {
+  border: 6px solid #949599;
+  height: 100px;
+  margin: 20px;
+  padding: 20px;
+  width: 400px;
+}
+code {
+  background: #2db34a;
+  border-radius: 6px;
+  color: #fff;
+  display: block;
+  font: 14px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+  padding: 24px 15px;
+  text-align: center;
+}
+header,
+section,
+aside,
+footer {
+  margin: 0 1.5% 24px 1.5%;
+}
+section {
+  float: left;
+  width: 63%;
+}
+aside {
+  float: right;
+  width: 30%;
+}
+footer {
+  clear: both;
+  margin-bottom: 0;
+}
